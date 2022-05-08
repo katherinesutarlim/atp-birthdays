@@ -1,6 +1,6 @@
 # ATP Birthdays
 
-A visualisation of the birthdates of 101 ATP players.
+A visualisation of the birthdates of 101 ATP players inspired by family birthday boards.
 
 Credits to Tennis Abstract for the dataset.
 

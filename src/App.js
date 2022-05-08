@@ -21,7 +21,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>
-          Tennis Players Birthdays
+          ATP Players Birthdays
         </h1>
       </header>
       <div className='header-row'>
