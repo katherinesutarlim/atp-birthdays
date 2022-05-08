@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/atp-birthdays/static/css/main.613a4b60.css",
+    "main.js": "/atp-birthdays/static/js/main.9ec38b4e.js",
+    "static/js/787.2fd0ad4f.chunk.js": "/atp-birthdays/static/js/787.2fd0ad4f.chunk.js",
+    "index.html": "/atp-birthdays/index.html",
+    "main.613a4b60.css.map": "/atp-birthdays/static/css/main.613a4b60.css.map",
+    "main.9ec38b4e.js.map": "/atp-birthdays/static/js/main.9ec38b4e.js.map",
+    "787.2fd0ad4f.chunk.js.map": "/atp-birthdays/static/js/787.2fd0ad4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.613a4b60.css",
+    "static/js/main.9ec38b4e.js"
+  ]
+}
